@@ -36,6 +36,8 @@ I’m a Romanian 🇷🇴 Computer Science student who likes to work on differen
 
 <br /><br />
 
+### Spotify Now Playing
+
 [![Spotify](https://novatorem-git-master.alexmarginean16.vercel.app/api/spotify)](https://open.spotify.com/user/alexmarginean16)
 
 [website]: https://alexmarginean.me
