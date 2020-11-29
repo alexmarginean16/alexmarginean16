@@ -17,13 +17,31 @@ I’m a Romanian 🇷🇴 Computer Science student who likes to work on differen
 
 ### Languages and Tools:
 
+<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/alexmarginean16/alexmarginean16/main/sublime-text.svg" />
+<img align="left" alt="Sublime" width="26px" src="./html.png" />
+<img align="left" alt="Sublime" width="26px" src="./css3.png" />
+<img align="left" alt="Sublime" width="26px" src="./flask.png" />
+<img align="left" alt="Sublime" width="26px" src="./python.png" />
+<img align="left" alt="Sublime" width="26px" src="./mongodb.png" />
+<img align="left" alt="Sublime" width="26px" src="./C++.png" />
+<img align="left" alt="Sublime" width="26px" src="./git.png" />
+<img align="left" alt="Sublime" width="26px" src="./github.png" />
+<img align="left" alt="Sublime" width="26px" src="./terminal.png" />
+<img align="left" alt="Sublime" width="26px" src="./heorku.png" />
+<img align="left" alt="Sublime" width="26px" src="./vagrant.png" />
+<img align="left" alt="Sublime" width="26px" src="./ansible.png" />
+<img align="left" alt="Sublime" width="26px" src="./bootstrap.png" />
+<img align="left" alt="Sublime" width="26px" src="./vim.png" />
+<img align="left" alt="Sublime" width="26px" src="./sketch.png" />
+
+<!--
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+-->
 <br />
 
 [website]: https://alexmarginean.me
